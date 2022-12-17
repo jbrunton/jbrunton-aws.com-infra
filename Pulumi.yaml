@@ -1,0 +1,3 @@
+name: jbrunton-aws.com-infra
+description: Shared infrastructure for jbrunton-aws.com
+runtime: nodejs
