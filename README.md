@@ -1,6 +1,6 @@
 # jbrunton-aws.com-infra
 
-This repository uses Pulumi to provision shared infrastructure for applications I run on AWS, using the jbrunton-aws.com domain.
+This repository uses Pulumi to provision shared infrastructure for applications I run on AWS with the `jbrunton-aws.com` domain.
 
 ## Provided resources
 
